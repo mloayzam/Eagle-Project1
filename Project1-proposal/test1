@@ -1,1 +1,8 @@
 
+Project Title  : Covid 
+Team Members: Augusma Christelle, Ibanez Dariel, Olczak Magdalena, Loayza Mario
+Project Description: Effect of Covid Vaccine/ Covid Data Tracker
+Research Questions to answer: Is still Covid trend? is the vaccine effective and preventive? Death  rate ? is people recovering? Vaccine and cardiovascular disease relationship?
+Data set to be use: CSV file from Kaggle, Our World in Data,
+Rough Breakdown of Tasks: describing the data exploration and cleanup(Mario), illustrating the final data analysis(Dariel), Matplotlib to create 6 to 8 visualizations of your data(Magdalena), 
+                          Create a write-up summarizing your major findings and API(Christelle). 
